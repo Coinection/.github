@@ -1,6 +1,6 @@
 # We're Coinection 
 
-A new way to manage your Euro coin collection! Get started [now](https://coinection.eu)!
+A new way to manage your Euro coin collection! Get started [now](https://coinection.eu?ref=github)!
 
 View our roadmap [here](https://coinection.features.vote).
 
