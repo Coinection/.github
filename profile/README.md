@@ -2,7 +2,7 @@
 
 A new way to manage your Euro coin collection! Get started [now](https://coinection.eu?ref=github)!
 
-View our roadmap [here](https://coinection.features.vote).
+Request new features for Coinection [here](https://coinection.features.vote).
 
 View and contribute to our Open Coin Data Initiative [here](https://github.com/Coinection/Open-Coin-Data).
 
